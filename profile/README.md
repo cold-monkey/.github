@@ -36,8 +36,6 @@ Solomon은 혼자 있는 시간을 **기록·추천·확장**하는 앱입니다
 | **Frontend** | Expo (React Native), NativeWind, Expo Router |
 | **Backend** | Node.js (Express), Drizzle ORM, Neon / PostgreSQL |
 | **Infra** | GitHub Actions, Vercel / Railway |
-| **Design** | Frutiger Aero Style, Figma, Blender (3D assets) |
-
 ---
 
 ### 🏗️ Repository Structure
